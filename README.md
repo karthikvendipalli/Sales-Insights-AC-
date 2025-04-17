@@ -7,6 +7,10 @@ Analyze sales performance and profitability trends for chocolates, identifying k
 # LIVEDASHBOARD 
 (<a href="https://app.powerbi.com/view?r=eyJrIjoiMjBhYjUzNTctNzA0MS00ZmVjLTg5MzctOTQyZTlkNzNjYzVhIiwidCI6ImJjZDZjNTAzLTgzZmMtNDU4Ni04MDNlLWQ5OWViNmQ1MjVjNiJ9">DASHBOARD</a>)
 
+## DASBOARD IMAGE
+![image](https://github.com/user-attachments/assets/a1f573ef-d02c-42e7-8c4b-b76eb6a27b97)
+
+
 ## KPIs
 
 ✅ Revenue Growth % → (Current Sales - Previous Sales) / Previous Sales * 100
