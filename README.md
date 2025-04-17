@@ -4,6 +4,9 @@
 
 Analyze sales performance and profitability trends for chocolates, identifying key revenue-driving products, optimizing shipments, and understanding regional market demand using Power BI and Python.
 
+# LIVEDASHBOARD 
+(<a href="https://app.powerbi.com/view?r=eyJrIjoiMjBhYjUzNTctNzA0MS00ZmVjLTg5MzctOTQyZTlkNzNjYzVhIiwidCI6ImJjZDZjNTAzLTgzZmMtNDU4Ni04MDNlLWQ5OWViNmQ1MjVjNiJ9">DASHBOARD</a>)
+
 ## KPIs
 
 ✅ Revenue Growth % → (Current Sales - Previous Sales) / Previous Sales * 100
